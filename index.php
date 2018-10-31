@@ -193,65 +193,24 @@
     
     <form name="test" action="" method="post">
          <br>
-        <input type="text" name="essai" id="essai">
+        <input type="number" name="essai" id="essai">
         <br> 
         <br> 
         <button type="submit" value="Valider" name="valider">Valider</button>
         <br>
-
+        <br>
+        <br>
+        <br>
     </form>
 
-    
-    <!-- 
-    // srand(); // initialiser le générateur de nombres aléatoires.
-    // $rand1=rand(0,10); // Nombre aléatoire 1, on sort des valeurs aléatoires comprises entre 0 et 5
-    // $rand2=rand(0,10); // Nombre aléatoire 2, on sort des valeurs aléatoires comprises entre 6 et 9
-    // $resultat=$rand1*$rand2; // Calculer la somme
+    <br>
+    <br>
+    <br>
 
-
-    // function question($value1,$value2)
-    // {
-    // echo $value1 ." x " .$value2 ;
-    // }
-
-    // question($rand1, $rand2)
-
-    // function correction($value1,$value2,){
-    //     if
-    //     {
-        
-    //     }
-       
-    //     echo  " Le total est " .$rand1*$rand2 .;
-    // }
-    
-    
-    //   echo $_POST['resultat'];
-       
-    // if( !empty($_SESSION['value1']) && !empty($_SESSION['value2']) && !empty($_POST['resultat'])){
-    //     $calcul=$_SESSION['value1']*$_SESSION['value2'];
-
-    //     if ($_POST['resultat'] != ""){
-    //         if($calcul == $_POST['resultat']){
-    //             echo "C'est gagné !";
-    //         }
-    //         else{
-    //             echo "Perdu!";
-    //         }
-
-
-    //     }
-
-      
-    // }
-    //    session_unset(); 
-    //    session_destroy();
-   -->
-
-
- 
+   
 
 </body>
+
 
 
 
